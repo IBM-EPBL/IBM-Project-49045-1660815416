@@ -1,7 +1,7 @@
 <h1 align="center">Hi‹, we are five star's  from PIE TECH</h1>
 <h3 align="center">A junior fullstack developers from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ibm-project-49359-1660818174&label=Profile%20views&color=0e75b6&style=flat" alt="ibm-project-49359-1660818174" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ibm-project-49045-1660815416&label=Profile%20views&color=0e75b6&style=flat" alt="ibm-project-49045-1660815416" /> </p>
 
 -  We are working on project name *AI Nutritional analyzer for fitness enthusiasts*
 
